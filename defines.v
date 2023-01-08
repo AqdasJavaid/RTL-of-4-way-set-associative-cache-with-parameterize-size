@@ -1,0 +1,2 @@
+
+`define dataWidth 32
